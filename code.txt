@@ -1,0 +1,28 @@
+User Goal                                                                  
+   ↓
+main.py
+   ↓
+Agent (agent.py)
+   ↓
+Build Prompt
+   ↓
+LLM (llm.py)-- Groq
+   ↓
+Choose Tool
+   ↓
+Tool Execution (tools.py)
+   ↓
+Result
+   ↓
+Memory Update (memory.py)
+   ↓
+Next Step
+
+
+                |  LLM Brain |
+                +------------+
+                   /      \
+                  /        \
+         calculator        run_shell
+            ↓                 ↓
+      Math evaluation    System command

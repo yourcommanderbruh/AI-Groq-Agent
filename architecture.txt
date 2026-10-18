@@ -1,0 +1,33 @@
+Goal
+ ↓
+Think (LLM)
+ ↓
+Act (Tool)
+ ↓
+Observe (Result)
+ ↓
+Remember (Memory)
+ ↓
+Repeat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
